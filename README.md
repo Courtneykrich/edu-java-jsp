@@ -297,4 +297,3 @@ Also notice the `target/edu-java-jsp-0.0.1-SNAPSHOT.war` file produced.  You'll
 probably want to give that a simpler name like `edujsp.war` before you deploy to 
 tomcat, because whatever you name the file will become the ContextPath in the url (minus `.war`).
 
-Well... this isn't my idea of a good time.
